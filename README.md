@@ -6,6 +6,8 @@ Made several tweaks to this site such as fixed the anchor for Seo link in nav ba
 
 ## Visuals
 
+![Screenshot of Site](Screen Shot 2021-11-15 at 8.06.19 PM.png)
+
 ## Authors Acknowledgement
 
 Made with ❤️️ by Horiseon
